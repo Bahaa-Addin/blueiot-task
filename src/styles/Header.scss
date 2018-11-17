@@ -1,0 +1,35 @@
+.sticky-nav-container {
+  min-height: 115px;
+  .affix {
+    position: fixed;
+    width: 100%;
+    background: #fafafa;
+    z-index: 1;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, .05);
+  }
+  .container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    .nav {
+      display: flex;
+      justify-content: space-around;
+      .navbar-header {
+      }
+      .menu-cart {
+        div:first-child {
+          top: -5px;
+        }
+      }
+      .navbar-right {
+        list-style: none;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: row;
+        flex-basis: 60%;
+      }
+    }
+  }
+}

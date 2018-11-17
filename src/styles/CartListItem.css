@@ -1,0 +1,14 @@
+.cart-item {
+  background-color: #F8F8F8; }
+  .cart-item .remove-cart-item {
+    top: 15px !important; }
+    .cart-item .remove-cart-item svg {
+      position: relative;
+      top: -12px;
+      right: 12px;
+      border-radius: 50%;
+      height: 20px !important;
+      width: 20px !important; }
+      .cart-item .remove-cart-item svg:hover {
+        fill: white !important;
+        background-color: lightcoral; }

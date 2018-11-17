@@ -1,0 +1,140 @@
+{
+  "products": [
+    {
+      "name": "White Toast",
+      "id": 11,
+      "price": 26,
+      "category": "BREAD",
+      "image": "https://www.breadfast.com/wp-content/uploads/2017/03/WhiteToast.png"
+    },
+    {
+      "name": "Brown Toast",
+      "id": 12,
+      "price": 26,
+      "category": "BREAD",
+      "image": "https://www.breadfast.com/wp-content/uploads/2017/03/BrownToast.png"
+    },
+    {
+      "name": "Half Brown Baguette",
+      "id": 13,
+      "price": 8,
+      "category": "BREAD",
+      "image": "https://www.breadfast.com/wp-content/uploads/2017/10/hbbaguette.png"
+    },
+    {
+      "name": "Multigrain Bread",
+      "id": 14,
+      "price": 28,
+      "category": "BREAD",
+      "image": "https://www.breadfast.com/wp-content/uploads/2017/03/multigrain.jpg"
+    },
+    {
+      "name": "Black Seeds Bread",
+      "id": 15,
+      "price": 28,
+      "category": "BREAD",
+      "image": "https://www.breadfast.com/wp-content/uploads/2017/03/blackseeds.png"
+    },
+    {
+      "name": "Light Rye Bread",
+      "id": 16,
+      "price": 28,
+      "category": "BREAD",
+      "image": "https://www.breadfast.com/wp-content/uploads/2017/03/rye.jpg"
+    },
+    {
+      "name": "Focaccia Bread",
+      "id": 18,
+      "price": 28,
+      "category": "BREAD",
+      "image": "https://www.breadfast.com/wp-content/uploads/2017/03/focaccia.png"
+    },
+    {
+      "name": "Burger Bun",
+      "id": 19,
+      "price": 7,
+      "category": "BREAD",
+      "image": "https://www.breadfast.com/wp-content/uploads/2018/03/2burgerbuns.jpg"
+    },
+    {
+      "name": "Soft Bread",
+      "id": 20,
+      "price": 7.5,
+      "category": "BREAD",
+      "image": "https://www.breadfast.com/wp-content/uploads/2018/01/softbread-1.jpg"
+    },
+    {
+      "name": "Plain Croissant",
+      "id": 21,
+      "price": 55,
+      "category": "CROISSANT",
+      "image": "https://www.breadfast.com/wp-content/uploads/2017/02/croissant.png"
+    },
+    {
+      "name": "Pain au Chocolat",
+      "id": 22,
+      "price": 80,
+      "category": "CROISSANT",
+      "image": "https://www.breadfast.com/wp-content/uploads/2017/03/pac.png"
+    },
+    {
+      "name": "Pastirma Croissant",
+      "id": 23,
+      "price": 80,
+      "category": "CROISSANT",
+      "image": "https://www.breadfast.com/wp-content/uploads/2018/02/pastarmicroissant.jpg"
+    },
+    {
+      "name": "Cheese Croissant",
+      "id": 24,
+      "price": 80,
+      "category": "CROISSANT",
+      "image": "https://www.breadfast.com/wp-content/uploads/2017/03/cheesecroissant-1.png"
+    },
+    {
+      "name": "Thyme Croissant",
+      "id": 25,
+      "price": 80,
+      "category": "CROISSANT",
+      "image": "https://www.breadfast.com/wp-content/uploads/2017/03/zcroissant.png"
+    },
+    {
+      "name": "Pain au Fromage",
+      "id": 26,
+      "price": 80,
+      "category": "CROISSANT",
+      "image": "https://www.breadfast.com/wp-content/uploads/2017/09/paf.jpg"
+    },
+    {
+      "name": "Oats Cereal Croissant",
+      "id": 27,
+      "price": 80,
+      "category": "CROISSANT",
+      "image": "https://www.breadfast.com/wp-content/uploads/2017/12/multicerealoats.png"
+    },
+    {
+      "name": "Mini Plain Croissants",
+      "id": 28,
+      "price": 80,
+      "category": "CROISSANT",
+      "image": "https://www.breadfast.com/wp-content/uploads/2018/03/miniplain.jpg"
+    },
+    {
+      "name": "Mini Pastirma Croissant",
+      "id": 29,
+      "price": 80,
+      "category": "CROISSANT",
+      "image": "https://www.breadfast.com/wp-content/uploads/2018/03/minipastirma.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "name": "BREAD",
+      "id": 1
+    },
+    {
+      "name": "CROISSANT",
+      "id": 2
+    }
+  ]
+}

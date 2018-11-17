@@ -1,0 +1,50 @@
+.cart-drawer-cont {
+  .cart-drawer-head{
+    background-color: white !important;
+    h1 {
+      font-family: Muli, Cairo, sans-serif;
+      color: rgb(146,146, 146) !important;
+    }
+    .close-cart{
+      svg{
+        fill: rgb(146, 146, 146) !important;
+      }
+    }
+  }
+
+  .cart-item-cont{
+    .cart-item-pic{
+      background-color: transparent !important;
+    }
+  }
+
+  .cart-list{
+    .cart-subtotal{
+      position: relative;
+      top: 20px;
+      font-family: monospace, Cairo, sans-serif;
+      font-size: 18px;
+      padding: 10px;
+    }
+    .action-buttons{
+      position: relative;
+      top: 50px;
+      button{
+        margin: 5px !important;
+        min-width: 150px !important;
+        border-radius: 5px !important;
+      }
+      div{
+        span:last-child{
+          font-family: Muli, Cairo, sans-serif !important;
+          text-transform: none !important;
+        }
+      }
+      .view-cart{
+      }
+      .checkout{
+        color: white !important;
+      }
+    }
+  }
+}

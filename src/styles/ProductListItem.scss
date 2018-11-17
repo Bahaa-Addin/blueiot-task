@@ -1,0 +1,64 @@
+.shadow {
+  border-radius: 10px !important;
+}
+
+.item {
+  border-radius: 10px !important;
+  * {
+    border-radius: 10px !important;
+  }
+
+  .item-title {
+    >span{
+      max-height: 36px;
+      font-size: 1em !important;
+    }
+  }
+
+  .item-actions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px 20px 20px !important;
+
+    .item-count {
+      width: 30px !important;
+      input[type="text"] {
+        text-align: center !important;
+      }
+      div:last-child{
+        width: max-content;
+        margin-top: 5px;
+      }
+    }
+
+    .action-buttons {
+      display: flex;
+      flex-direction: column;
+      button {
+        box-shadow: 0 0 2px #cecece;
+        margin: 2px !important;
+        min-width: 15px !important;
+        width: 20px !important;
+        min-height: 15px !important;
+        height: 20px !important;
+        line-height: 20px !important;
+        border-radius: 2px !important;
+        div {
+          span {
+            padding: 0 !important;
+          }
+        }
+      }
+    }
+
+    .add-item {
+      .add-btn {
+        span {
+          padding: 0 !important;
+          font-size: 12px !important;
+        }
+      }
+    }
+  }
+}
